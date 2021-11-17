@@ -10,16 +10,15 @@
 I am a self-starter that is both persistent and proactive in achieving my personal goals. I took the leap, to change my career and write code for a living as I am curious to know how far I can push my creativity in technology and what I can achieve within the next couple of years. It also helps that I love the creation process and building out my own ideas whilst taking the time to continuously learn new knowledge. 
 
 **Technologies that I have worked with include;**
-- Software Development: **Kotlin and Android Studios**
-- AWS: **EC2, VPC, Subnets, Routing, ELB, Auto-Scaling, S3, IAM, Lambda, DynamoDB, Cloud Formation, CloudFront, CloudWatch** (need a refresher but i know the basics)
-- SysOps: **Bash Scripting,  AWS CLI, Boto3, Python** (a bit rusty as I don’t use these much)
+- **Software Development:** Kotlin and Android Studios
+- **AWS:** EC2, VPC, Subnets, Routing, ELB, Auto-Scaling, S3, IAM, Lambda, DynamoDB, Cloud Formation, CloudFront, CloudWatch (need a refresher but i know the basics)
+- **SysOps:** Bash Scripting,  AWS CLI, Boto3, Python (a bit rusty as I don’t use these much)
 
 My previous experience includes five years in the Social Housing sector. The main focus in my roles have been customer research, user insight and working with a variety of key stakeholders to improve frontline services in Housing. This has given me a great deal of knowledge in customer consultations and working with wider teams to deliver more customer-centric solutions.
-Additionally, I have passed my AWS Solutions Architect Associate qualification and have a STEM related degree in Aircraft Engineering with Pilot Studies. My degree has greatly helped me to understand and deal with complex technical details, solve problems using analytical thinking and present solutions in simple forms either verbally or in written reports. 
 
-Give me the opportunity to join your organisation as a junior developer and make a positive impact within your team.
+Additionally, **I have passed my AWS Solutions Architect Associate qualification** and have a STEM related degree in Aircraft Engineering with Pilot Studies. My degree has greatly helped me to understand and deal with complex technical details, solve problems using analytical thinking and present solutions in simple forms either verbally or in written reports. 
 
-**Get in contact with me, I will make a great addition to your team.**
+**Get in contact with me for juinor Android/AWS roles.**
 
  
 </p>
@@ -43,6 +42,7 @@ Give me the opportunity to join your organisation as a junior developer and make
    height="40"
   />
  </a>
+ 
  <a href="https://developer.android.com/" target="_blank">
   <img
    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg"
@@ -51,6 +51,7 @@ Give me the opportunity to join your organisation as a junior developer and make
    height="40"
   />
  </a>
+ 
  <a href="https://kotlinlang.org/" target="_blank">
   <img
    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original-wordmark.svg"
