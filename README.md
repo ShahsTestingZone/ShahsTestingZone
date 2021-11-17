@@ -7,7 +7,7 @@
  <br />
  
 <p>
-I took the leap, to change my career and write code for a living as I am curious to know how far I can push my creativity in technology and what I can achieve within the next couple of years. It also helps that I love the creation process and building out my own ideas whilst taking the time to continuously learn new knowledge. 
+I took the leap to change my career and write code for a living as I am curious to know how far I can push my creativity in technology and what I can achieve within the next couple of years. It also helps that I love the creation process and building out my own ideas whilst taking the time to continuously learn new knowledge. 
 
 **Technologies that I have worked with include;**
 - **Software Development:** Kotlin and Android Studios
@@ -16,9 +16,9 @@ I took the leap, to change my career and write code for a living as I am curious
 
 My previous experience includes five years in the Social Housing sector. The main focus in my roles have been customer research, user insight and working with a variety of key stakeholders to improve frontline services in Housing. This has given me a great deal of knowledge in customer consultations and working with wider teams to deliver more customer-centric solutions.
 
-Additionally, **I have passed my AWS Solutions Architect Associate qualification** and have a STEM related degree in Aircraft Engineering with Pilot Studies. My degree has greatly helped me to understand and deal with complex technical details, solve problems using analytical thinking and present solutions in simple forms either verbally or in written reports. 
+Additionally, **I have passed my AWS Solutions Architect Associate qualification** and have a STEM related degree in Aircraft Engineering with Pilot Studies. 
 
-**Get in contact with me for juinor Android/AWS roles.**
+**Get in contact with me for juinor 'Android/AWS Developer' roles.**
 
  
 </p>
