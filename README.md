@@ -7,7 +7,7 @@
  <br />
  
 <p>
-I am a self-starter that is both persistent and proactive in achieving my personal goals. I took the leap, to change my career and write code for a living as I am curious to know how far I can push my creativity in technology and what I can achieve within the next couple of years. It also helps that I love the creation process and building out my own ideas whilst taking the time to continuously learn new knowledge. 
+I took the leap, to change my career and write code for a living as I am curious to know how far I can push my creativity in technology and what I can achieve within the next couple of years. It also helps that I love the creation process and building out my own ideas whilst taking the time to continuously learn new knowledge. 
 
 **Technologies that I have worked with include;**
 - **Software Development:** Kotlin and Android Studios
