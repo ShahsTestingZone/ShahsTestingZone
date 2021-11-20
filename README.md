@@ -18,7 +18,7 @@ My previous experience includes five years in the Social Housing sector. The mai
 
 Additionally, **I have passed my AWS Solutions Architect Associate qualification** and have a STEM related degree in Aircraft Engineering with Pilot Studies. 
 
-**Get in contact with me for juinor 'Android/AWS Developer' roles.**
+**Get in contact with me for junior 'Android/AWS Developer' roles.**
 
  
 </p>
