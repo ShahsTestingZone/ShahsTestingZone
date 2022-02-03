@@ -16,7 +16,7 @@ I took the leap to change my career and write code for a living as I am curious 
 
 My previous experience includes five years in the Social Housing sector. The main focus in my roles have been customer research, user insight and working with a variety of key stakeholders to improve frontline services in Housing. This has given me a great deal of knowledge in customer consultations and working with wider teams to deliver more customer-centric solutions.
 
-Additionally, **I have passed my AWS Solutions Architect Associate qualification** and have a STEM related degree in Aircraft Engineering with Pilot Studies. 
+Additionally, I have a STEM related degree in Aircraft Engineering with Pilot Studies. I have also passed my AWS Solutions Architect Associate qualification at the time I was looking into Cloud Infrastructure.
 
 **Get in contact with me for junior 'Android/AWS Developer' roles.**
 
